@@ -32,6 +32,7 @@ Google Chrome Extensions (Needed)
 ---
 ## How to Use the Script
 You need to keep the (udemy-enroll.py) & (links.txt) in the same folder. The method is simply as follows:
+
 you will collect links from one of the websites below then open all the links in one chrome window and use (OneTap) extension to join all the links together in one tap, you can now copy all the links at once and paste it into the links.txt file and go up in the path bar click their and write "cmd" and then press Enter, now we will use the tool
 
 write in the cmd window
