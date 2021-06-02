@@ -10,8 +10,6 @@ In this repository, you will learn how to get paid courses for **Free** and with
 ![](Images/0-my-account-coursesNum.JPG)
 ---
 ## Now let's start explaining how to use it
-<br />
-
 ### Requirements & Installation
 
 1. [Download Firefox](https://www.mozilla.org/en-US/firefox/new/)
