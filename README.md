@@ -36,9 +36,11 @@ you will get link from one of the websites below then open all the links in one 
 
 write in the cmd window
 
-'''
-python udemy-enroll.py "your udemy Email" "your password"
-'''
+```python
+python udemy-enroll.py Email Password
+```
+Email = your Udemy Email
+Password = your password
 #### Website to get the free courses:
 - https://answersq.com
 - https://app.real.discount
