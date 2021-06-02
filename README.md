@@ -1,9 +1,7 @@
 # Udemy-Enroller
 ![](Images/gear_udemy.png)
-<br />
 ## Description:
-<br />
-### Python script that written by selenium to automate the process of enroll Udemy courses.
+Python script that written by selenium to automate the process of enroll Udemy courses.
 ---
 In this repository, you will learn how to get paid courses for **Free** and without any effort, here is a photo from my personal account on Udemy that shows the number of courses (Paid courses) that I enroll in for free
 
