@@ -13,20 +13,21 @@ In this repository, you will learn how to get paid courses for **Free** and with
 <br />
 FIRST YOU NEED
 
-- [Download Firefox](https://www.mozilla.org/en-US/firefox/new/)
+1. [Download Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
-- [Download Python](https://www.python.org/downloads/)
+2. [Download Python](https://www.python.org/downloads/)
 
-- [Download pip](https://pypi.org/project/pip/)
+3. [Download pip](https://pypi.org/project/pip/)
 
-- Download 'Selenium' or 'requirements.txt
+4. Download 'Selenium' or 'requirements.txt
 > (it's the same thing honey)
 <br />
 Open your cmd by press (Win + R) and write "cmd" and paste this line:
 '<pip install selenium>'
 <br />
 Google Chrome Extensions (Needed)
-* [Linkclum](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj)
-* [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
+
+5. [Linkclum](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj)
+6. [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
 ---
 
