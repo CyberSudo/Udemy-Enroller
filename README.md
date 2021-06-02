@@ -11,10 +11,7 @@ In this repository, you will learn how to get paid courses for **Free** and with
 ---
 ## Now let's start explaining how to use it
 <br />
-
 FIRST YOU NEED
-
-<br />
 
 - [Download Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
