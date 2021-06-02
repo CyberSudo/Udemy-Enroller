@@ -1,5 +1,5 @@
 # Udemy-Enroller
-[Youtube Video that Explains it All](https://www.youtube.com/watch?v=tst0Qnq-23E&t=23s)
+[Youtube Video That Explains it All](https://www.youtube.com/watch?v=tst0Qnq-23E&t=23s)
 
 ![](Images/gear_udemy.png)
 ## Description:
