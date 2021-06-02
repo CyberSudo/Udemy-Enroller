@@ -36,3 +36,9 @@ write in the cmd window
 '''python
 python udemy-enroll.py "your udemy Email" "your password"
 '''
+#### Website to get the free courses:
+- https://answersq.com
+- https://app.real.discount
+- https://www.discudemy.com
+- https://www.coolztricks.com/2021/05/udemy-daily-coupons.html
+
