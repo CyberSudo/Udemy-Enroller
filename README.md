@@ -40,6 +40,7 @@ write in the cmd window
 python udemy-enroll.py Email Password
 ```
 Email = your Udemy Email
+
 Password = your password
 #### Website to get the free courses:
 - https://answersq.com
