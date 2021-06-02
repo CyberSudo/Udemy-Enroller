@@ -19,6 +19,7 @@ In this repository, you will learn how to get paid courses for **Free** and with
 4. Download 'Selenium' or 'requirements.txt (it's the same thing honey)
 <br />
 Open your cmd by press (Win + R) and write "cmd" and paste this line:
+
 ```bash
 pip install selenium
 ```
