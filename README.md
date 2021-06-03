@@ -14,11 +14,20 @@ In this repository, you will learn how to get paid courses for **Free** and with
 
 1. [Download Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
-2. [Download Python](https://www.python.org/downloads/)
+2. [Dowmload geckodriver](https://github.com/mozilla/geckodriver/releases/)
+Unzip the file after downloading and copy the exe file to the path of Python program
 
-3. [Download pip](https://pypi.org/project/pip/)
+sometimes python path will be:
 
-4. Download 'Selenium' or 'requirements.txt (it's the same thing honey)
+```bash
+C:\Users\"your user name"\AppData\Local\Programs\Python\Python38
+```
+
+3. [Download Python](https://www.python.org/downloads/)
+
+4. [Download pip](https://pypi.org/project/pip/)
+
+5. Download 'Selenium' or 'requirements.txt (it's the same thing honey)
 <br />
 Open your cmd by press (Win + R) and write "cmd" and paste this line:
 
@@ -27,8 +36,8 @@ pip install selenium
 ```
 Google Chrome Extensions (Needed)
 
-5. [Linkclum](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj)
-6. [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
+6. [Linkclum](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj)
+7. [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
 ---
 ## How to Use the Script
 You need to keep the (udemy-enroll.py) & (links.txt) in the same folder. The method is simply as follows:
