@@ -8,8 +8,9 @@ Python script that written by selenium to automate the process of enroll Udemy c
 In this repository, you will learn how to get paid courses for **Free** and without any effort, here is a photo from my personal account on Udemy that shows the number of courses (Paid courses) that I enroll in for free
 
 ![](Images/0-my-account-coursesNum.JPG)
----
+
 ## Imortant: You have to delete your credit card before using this script
+
 #### Now let's start explaining how to use it
 ## Requirements & Installation
 
