@@ -53,13 +53,33 @@ Don't forget to share it.
 Please wait everything will happen in few seconds
 Thank you for choosing this tool <3
 ''')
-
 parser = argparse.ArgumentParser(description='Udemy Enrolling Script')
 parser.add_argument('Email', metavar='Email', type=str , help='Enter your email')
 parser.add_argument('Password', metavar='Password', type=str , help='Enter your password')
 args = parser.parse_args()
 Email = args.Email
 Password = args.Password
+def ask_user():
+    check = str(input("Did you delete your credit cards first?! (Y/N): ")).lower().strip()
+    try:
+        if check[0] == 'y':
+            print('Nice')
+            time.sleep(1)
+            print('Script starting...')
+            return True
+        elif check[0] == 'n':
+            print('Please delete your card first because the script does not differentiate between paid and free')
+            time.sleep(5)
+            exit()
+            return False
+        else:
+            print('Invalid Input')
+            return ask_user()
+    except Exception as error:
+        print("Please enter valid inputs")
+        print(error)
+        return ask_user()
+ask_user()
 web = webdriver.Firefox()
 web.get("https://www.udemy.com/")
 web.implicitly_wait(5)
@@ -84,3 +104,5 @@ for enroll_link in lst_link:
         time.sleep(5)
     except:
         continue
+print('======= Done :) =======')
+#web.close()
