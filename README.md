@@ -9,6 +9,7 @@ In this repository, you will learn how to get paid courses for **Free** and with
 
 ![](Images/0-my-account-coursesNum.JPG)
 ---
+## imortant:`#f03c15` YOU have to delete your credit card before using this script
 #### Now let's start explaining how to use it
 ## Requirements & Installation
 
@@ -20,7 +21,7 @@ Unzip the file after downloading and copy the exe file to the path of Python pro
 sometimes python path will be:
 
 ```bash
-C:\Users\**Your User Name**\AppData\Local\Programs\Python\Python38
+C:\Users\Your User Name\AppData\Local\Programs\Python\Python38
 ```
 
 3. [Download Python](https://www.python.org/downloads/)
