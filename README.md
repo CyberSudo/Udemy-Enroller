@@ -9,9 +9,7 @@ In this repository, you will learn how to get paid courses for **Free** and with
 
 ![](Images/0-my-account-coursesNum.JPG)
 ---
-```html
-<h2 style="color:#f03c15">imortant: YOU have to delete your credit card before using this script</h2>
-```
+## Imortant: You have to delete your credit card before using this script
 #### Now let's start explaining how to use it
 ## Requirements & Installation
 
