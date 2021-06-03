@@ -20,7 +20,7 @@ Unzip the file after downloading and copy the exe file to the path of Python pro
 sometimes python path will be:
 
 ```bash
-C:\Users\Your User Name\AppData\Local\Programs\Python\Python38
+C:\Users\**Your User Name**\AppData\Local\Programs\Python\Python38
 ```
 
 3. [Download Python](https://www.python.org/downloads/)
